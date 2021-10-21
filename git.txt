@@ -1,0 +1,7 @@
+
+
+.... archivos no trackeados
+
+.... staging Area ....(memoria)
+
+...repositorio local...
