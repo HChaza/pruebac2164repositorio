@@ -5,3 +5,13 @@
 .... staging Area ....(memoria)
 
 ...repositorio local...
+index.html
+otros archivos
+
+1) Verificar carpeta de proyecto
+2) me meto a la carpeta
+3) git init
+4) configurar usuario
+5) configurar email
+6) pasar los archivos al stagging area
+7) git commit -m ""
